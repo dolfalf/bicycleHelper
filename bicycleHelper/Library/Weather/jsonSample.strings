@@ -1,0 +1,98 @@
+/* 
+  jsonSample.strings
+  bicycleHelper
+
+  Created by Lee jaeeun on 12/11/10.
+  Copyright (c) 2012年 kjcode. All rights reserved.
+*/
+
+/*
+{
+    "data": {
+        "current_condition": [
+        {
+            "cloudcover": "25",
+            "humidity": "37",
+            "observation_time": "02:28 AM",
+            "precipMM": "0.0",
+            "pressure": "1018",
+            "temp_C": "18",
+            "temp_F": "64",
+            "visibility": "10",
+            "weatherCode": "116",
+            "weatherDesc": [
+            {
+                "value": "Partly Cloudy"
+            }
+            ],
+            "weatherIconUrl": [
+            {
+                "value": "http:\/\/www.worldweatheronline.com\/images\/wsymbols01_png_64\/wsymbol_0002_sunny_intervals.png"
+            }
+            ],
+            "winddir16Point": "NNW",
+            "winddirDegree": "340",
+            "windspeedKmph": "28",
+            "windspeedMiles": "17"
+        }
+        ],
+        "request": [
+        {
+            "query": "Lat 35.77 and Lon 139.72",
+            "type": "LatLon"
+        }
+        ],
+        "weather": [
+        {
+            "date": "2012-11-10",
+            "precipMM": "0.0",
+            "tempMaxC": "17",
+            "tempMaxF": "63",
+            "tempMinC": "10",
+            "tempMinF": "50",
+            "weatherCode": "113",
+            "weatherDesc": [
+            {
+                "value": "Sunny"
+            }
+            ],
+            "weatherIconUrl": [
+            {
+                "value": "http:\/\/www.worldweatheronline.com\/images\/wsymbols01_png_64\/wsymbol_0001_sunny.png"
+            }
+            ],
+            "winddir16Point": "NW",
+            "winddirDegree": "314",
+            "winddirection": "NW",
+            "windspeedKmph": "21",
+            "windspeedMiles": "13"
+        },
+        {
+            "date": "2012-11-11",
+            "precipMM": "4.9",
+            "tempMaxC": "15",
+            "tempMaxF": "59",
+            "tempMinC": "14",
+            "tempMinF": "57",
+            "weatherCode": "119",
+            "weatherDesc": [
+            {
+                "value": "Cloudy"
+            }
+            ],
+            "weatherIconUrl": [
+            {
+                "value": "http:\/\/www.worldweatheronline.com\/images\/wsymbols01_png_64\/wsymbol_0003_white_cloud.png"
+            }
+            ],
+            "winddir16Point": "N",
+            "winddirDegree": "2",
+            "winddirection": "N",
+            "windspeedKmph": "12",
+            "windspeedMiles": "7"
+        }
+        ]
+    }
+}
+
+*/
